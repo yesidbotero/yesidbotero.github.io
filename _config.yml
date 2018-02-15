@@ -1,13 +1,13 @@
 # Site settings
-title:          Tale
+title:          Yesid is learning about...
 description:    "Minimal Jekyll theme for storytellers"
 url:            "https://yesidbotero.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Yesid Botero
+  url:
+  email:        yesidboterom@gmail.com
 
 # Build settings
 markdown:       kramdown
